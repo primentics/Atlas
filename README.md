@@ -8,5 +8,7 @@ Atlas is a feature-rich plugin loader for SCP: Secret Laboratory servers. It loa
 - Easy Config
   - Plugins can define a config value by marking it with an attribute. And that's it!
 
+*Need more? Just visit the [wiki](https://github.com/encodekenobi/Atlas/wiki)!*
+
 # Commands
 Atlas has it's own command set, which allow you to manage it.
